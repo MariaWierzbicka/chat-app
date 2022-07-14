@@ -74,6 +74,10 @@ p {
   align-items: flex-start;
 }
 
+.bot-message {
+  font-style: italic;
+}
+
 .message--self {
   align-items: flex-end;
 }
